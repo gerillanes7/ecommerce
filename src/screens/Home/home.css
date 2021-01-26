@@ -1,0 +1,11 @@
+img {
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+.cualidades-container {
+  padding: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
